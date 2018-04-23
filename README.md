@@ -1,2 +1,9 @@
-# repositorio_clone
-Repositório para clonar como exercício didático
+# Respositório Clone
+
+Repositório para clonar como exercício didático.
+
+Arquivos:
+  - README.md
+  - simulacao.R
+
+
